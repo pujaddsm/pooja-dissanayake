@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=160&section=header&color=0:4B0082,100:8A2BE2&text=Hello,%20I'm%20Pooja Dissanayake&fontColor=FFFFFF&fontSize=55&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=160&section=header&color=0:4B0082,100:8A2BE2&text=Hello,%20I'm%20Pooja%20Dissanayake&fontColor=FFFFFF&fontSize=55&animation=fadeIn" />
 </div>
 
 <h3 align="center">⚡ Software Engineering Student | IoT & Mobile App Developer ⚡</h3>
@@ -12,17 +12,16 @@
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Pooja Dissanayake**, a **Software Engineering student from Sri Lanka 🇱🇰**  
-I love building **real-world systems** using **IoT, Android, and Machine Learning**.
+Hi! I'm **Pooja Dissanayake**, a **Software Engineering student from Sri Lanka 🇱🇰**.  
+I enjoy building **real-world systems** using **IoT, Android, and Machine Learning**.  
 
-I enjoy working at the intersection of **hardware + software**, especially on projects that solve everyday problems.
+I love working at the intersection of **hardware + software**, especially on projects that solve everyday problems.
 
 ---
 
 ## 🎓 Education
 - **Higher National Diploma (HND) in Software Engineering**
 - Diploma in Software Engineering  
-
 
 ---
 
@@ -38,7 +37,7 @@ I enjoy working at the intersection of **hardware + software**, especially on pr
 ### 🌱 ML-Based Fertilizer Recommendation System
 **Tech:** Python, Scikit-learn, Pandas  
 - Predicts suitable fertilizer based on soil & crop data  
-- Built as a group ML coursework project  
+- Group ML coursework project  
 
 ### 📱 Android Mobile Applications
 **Tech:** XML, Activities, Fragments  
@@ -77,7 +76,7 @@ I enjoy working at the intersection of **hardware + software**, especially on pr
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pujaddsm&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
@@ -101,7 +100,7 @@ I enjoy working at the intersection of **hardware + software**, especially on pr
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   &nbsp;
-  <a href="www.linkedin.com/in/pooja-dissanayake">
+  <a href="https://www.linkedin.com/in/pooja-dissanayake">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </div>
