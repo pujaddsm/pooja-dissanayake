@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=160&section=header&color=0:4B0082,100:8A2BE2&text=Hello,%20I'm%20Pooja%20Dissanayake&fontColor=FFFFFF&fontSize=55&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=160&section=header&color=0:00CED1,100:20B2AA&text=Hello,%20I'm%20Pooja%20Dissanayake&fontColor=FFFFFF&fontSize=55&animation=fadeIn" />
 </div>
 
 <h3 align="center">⚡ Software Engineering Student | IoT & Mobile App Developer ⚡</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;IoT+%7C+Android+Development;Machine+Learning+Explorer;Building+Smart+Real-World+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=20B2AA&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;IoT+%7C+Android+Development;Machine+Learning+Explorer;Building+Smart+Real-World+Solutions" />
 </div>
 
 ---
@@ -76,11 +76,11 @@ I love working at the intersection of **hardware + software**, especially on pro
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pujaddsm&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pujaddsm&show_icons=true&theme=radical&hide_border=false&title_color=20B2AA&icon_color=00CED1&text_color=20B2AA&bg_color=0:00CED1,100:20B2AA" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pujaddsm&theme=radical&hide_border=false&background=0:00CED1,100:20B2AA&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF" />
 </p>
 
 ---
@@ -108,7 +108,7 @@ I love working at the intersection of **hardware + software**, especially on pro
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4B0082,100:8A2BE2" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00CED1,100:20B2AA" />
 </div>
 
 <h4 align="center">✨ Learning • Building • Improving ✨</h4>
