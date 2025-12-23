@@ -5,7 +5,7 @@
 <h3 align="center">⚡ Software Engineering Student | IoT & Mobile App Developer ⚡</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=20B2AA&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;IoT+%7C+Android+Development;Machine+Learning+Explorer;Building+Smart+Real-World+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=20B2AA&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;IoT+%7C+Android+Development;Machine+Learning+Explorer;Building+Smart+Real-World+Solutions" />
 </div>
 
 ---
@@ -27,27 +27,18 @@ I love working at the intersection of **hardware + software**, especially on pro
 
 ## 🚀 Projects
 
-### 🐾 IoT-Based Smart Pet Feeder
-**Tech:** Arduino, ESP8266, Firebase, Android, HX711, RFID  
-- Real-time food level monitoring  
-- Scheduled & manual feeding  
-- Android app control  
-- Firebase cloud integration  
+<div align="center">
 
-### 🌱 ML-Based Fertilizer Recommendation System
-**Tech:** Python, Scikit-learn, Pandas  
-- Predicts suitable fertilizer based on soil & crop data  
-- Group ML coursework project  
+| Project | Tech & Highlights |
+|--------|------------------|
+| 🐾 **Smart Pet Feeder** | Arduino, ESP8266, Firebase, Android, HX711, RFID. Real-time monitoring, scheduled/manual feeding, app control |
+| 🌱 **Fertilizer Recommendation System** | Python, Scikit-learn, Pandas. Predicts suitable fertilizer based on soil & crop data |
+| 📱 **Android Apps** | XML, Activities, Fragments. Login, profile, local/Firebase storage, clean UI |
+| 🏥 **Hospital Management System** | C#, Java, MySQL |
+| 📚 **Library Management System** | Java, MySQL |
+| 💧 **Water Level Monitoring System** | Arduino, sensors, alert system |
 
-### 📱 Android Mobile Applications
-**Tech:** XML, Activities, Fragments  
-- Login & profile management  
-- Local & Firebase data storage  
-- Clean UI navigation  
-
-### 🏥 Hospital Management System  
-### 📚 Library Management System  
-### 💧 Water Level Monitoring System  
+</div>
 
 ---
 
