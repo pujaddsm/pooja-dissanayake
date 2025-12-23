@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=160&section=header&color=0:4B0082,100:8A2BE2&text=Hello,%20I'm%20Phoo&fontColor=FFFFFF&fontSize=55&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=160&section=header&color=0:4B0082,100:8A2BE2&text=Hello,%20I'm%20Pooja Dissanayake&fontColor=FFFFFF&fontSize=55&animation=fadeIn" />
 </div>
 
 <h3 align="center">⚡ Software Engineering Student | IoT & Mobile App Developer ⚡</h3>
